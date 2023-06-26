@@ -203,7 +203,9 @@ const Home = () => {
                     name: "Hemant Jatal.V",
                     age: "19",
                     gender: "Male",
+                    typing_speed:"75wpm",
                     country: "India",
+                    
                   },
                   null,
                   2
