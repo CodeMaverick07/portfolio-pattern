@@ -1,5 +1,5 @@
 const projectData = [
-  {
+  
     {
     title: "Travling_Histroy_Saver",
     image: "./wallpaper1.jpg",
